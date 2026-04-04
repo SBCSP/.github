@@ -73,6 +73,28 @@ Most vendors cover one layer. We cover all of them — from physical installatio
 └────────────────────────────────────────────────────┘
 ```
 
+## Featured Projects
+
+<a href="https://github.com/SBCSP/ai-vault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SBCSP&repo=ai-vault&theme=default&hide_border=true&bg_color=f6f8fa" />
+</a>
+
+### [AI VaultIO](https://github.com/SBCSP/ai-vault)
+
+A privacy-first macOS desktop app that combines encrypted credential storage, document indexing, and AI-powered semantic search — with a full RAG pipeline running locally.
+
+**Key Features:**
+- 🔐 **AES-256 Encryption** — Secrets, notes, and ideas encrypted at rest with PBKDF2 key derivation
+- 🤖 **Dual LLM Support** — Local Ollama models or Claude API (secrets auto-locked for cloud)
+- 📄 **RAG Pipeline** — Semantic search across your entire vault with cosine similarity retrieval
+- 🔧 **MCP Tool Calling** — Connect to external servers (Linear, GitHub) for LLM-driven automation
+- ☁️ **AWS Secrets Manager Sync** — Pull cloud secrets via SSO directly into your local vault
+- 📊 **Server Monitoring** — Deploy `aiv_agent` on Linux servers for live system metrics
+
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-0066cc?style=flat-square)](https://github.com/SBCSP/ai-vault/releases/latest)
+[![Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-91.8%25-0175C2?style=flat-square&logo=dart)](https://github.com/SBCSP/ai-vault)
+
 ---
 
 <div align="center">
