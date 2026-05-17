@@ -5,8 +5,6 @@
 ### Infrastructure Built From The Ground Up
 
 [![Website](https://img.shields.io/badge/Website-sandboxcsp.com-0066cc?style=for-the-badge&logo=safari&logoColor=white)](https://sandboxcsp.com)
-[![SDVOSB](https://img.shields.io/badge/SDVOSB-Veteran--Owned-004080?style=for-the-badge&logo=shield&logoColor=white)](https://sandboxcsp.com/credentials)
-[![Government Ready](https://img.shields.io/badge/Gov-Set--Aside%20Eligible-1a4d1a?style=for-the-badge)](https://sandboxcsp.com/government)
 
 ---
 
@@ -28,17 +26,13 @@ Most vendors cover one layer. We cover all of them — from physical installatio
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <h3>End-to-End</h3>
 <p>One partner from physical installation to running applications. No handoff gaps, no finger-pointing.</p>
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <h3>Veteran-Owned</h3>
 <p>Service-Disabled Veteran-Owned Small Business (SDVOSB). Mission-focused discipline in every project.</p>
-</td>
-<td width="33%" align="center">
-<h3>Government-Ready</h3>
-<p>Eligible for federal set-aside contracts. SMB and agency procurement ready.</p>
 </td>
 </tr>
 </table>
